@@ -1,6 +1,3 @@
-# FUTURE_ML_01
-AI-Powered Sales Forecasting Dashboard
-
 # 🚀 FUTURE_ML_01 — AI-Powered Sales Forecasting Dashboard
 
 This repository contains **Task 1** of the **Future Interns Machine Learning Internship**.  
