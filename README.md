@@ -37,7 +37,9 @@ Track: Machine Learning (Track Code: ML)
 ---
 
 ## 📊 Power BI Dashboard Preview
-![Power BI Dashboard](powerbi_sales_dashboard.png)
+![Power BI Dashboard](powerbi_sales_dashboard(1).png)
+![Power BI Dashboard](powerbi_sales_dashboard_2.png)
+
 
 ---
 
